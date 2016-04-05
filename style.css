@@ -1,28 +1,23 @@
-/*
-
-CSS: element, id, class
-
-selector{   
-
-property:value;
-
+ul#menu {
+    padding: 0;
 }
 
-*/ 
+ul#menu li {
+    display: inline;
+}
 
-body{  
-background-color: lightgreen
+ul#menu li a {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+}
 
-} 
+ul#menu li a:hover {
+    background-color: #E5B9CC;
+}
 
-h1{  
-
-text-decoration:underline
-
-} 
-
-#header{    
-
-text-align:center;
-
+body {
+    background-color: #B6E5D2;
 }
