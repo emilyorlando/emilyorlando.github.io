@@ -1,1 +1,39 @@
+h1 {
+    font-size: 60px;
+    text-align: center
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    color: white;
+}
+    
+ul#menu {
+    padding: 0;
+}
 
+ul#menu li {
+    display: inline;
+}
+
+ul#menu li a {
+    background-color: none;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 8px 8px 0 0;
+}
+
+ul#menu li a:hover {
+    background-color: none;
+}
+
+body {
+    text-align: center;
+    background-color: #4FA4A5;
+}
+
+#page-wrap {
+    text-align: left;
+     width: 800px;
+     margin: 0 auto;
+}
