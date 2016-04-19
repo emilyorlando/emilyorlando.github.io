@@ -29,3 +29,8 @@ ul#menu li a:hover {
 body {
     background-color: #4FA4A5;
 }
+
+#wrap { 
+	width: 900px; 
+	margin: 0 auto; 
+}
