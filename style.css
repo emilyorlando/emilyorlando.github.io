@@ -1,21 +1,23 @@
-
-ul {
-   list-style-type: none;
-   margin: 0;
-   padding: 0;
-   overflow: hidden;
-   background-color: #8d688d
-;
+ul#menu {
+    padding: 0;
 }
-li {
-   float: left;
-}li a {
-   display: block;
-   color: white;
-   text-align: center;
-   padding: 14px 16px;
-   text-decoration: none;
-}li a:hover {
-   background-color: #a7a7a7
-;
+
+ul#menu li {
+    display: inline;
+}
+
+ul#menu li a {
+    background-color: black;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+}
+
+ul#menu li a:hover {
+    background-color: #E5B9CC;
+}
+
+body {
+    background-color: #B6E5D2;
 }
