@@ -1,13 +1,13 @@
 h1 {
     font-size: 45px;
     text-align: center
-    font-family: "Gill Sans", sans-serif;
+    font-family: 'Raleway', sans-serif;
     font-weight: bold;
 }
     
 ul#menu {
     padding: 0;
-    text-align:center;;
+    text-align: center;
 }
 
 ul#menu li {
