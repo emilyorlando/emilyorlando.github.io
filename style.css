@@ -12,6 +12,7 @@ ul#menu {
 
 ul#menu li {
     display: inline;
+    text-align center;
 }
 
 ul#menu li a {
