@@ -31,3 +31,7 @@ body {
     background-color: #4FA4A5;
 }
 
+#page-wrap {
+     width: 800px;
+     margin: 0 auto;
+}
