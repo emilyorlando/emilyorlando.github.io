@@ -24,7 +24,7 @@ ul#menu li a {
 }
 
 ul#menu li a:hover {
-    background-color: #E5B9CC;
+    background-color: none;
 }
 
 body {
