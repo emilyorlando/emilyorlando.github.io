@@ -14,7 +14,17 @@ ul#menu li {
     display: inline;
 }
 
-ul#menu li a {
+ul#menu1 li a {
+    background-color: none;
+    font-size: 60px;
+    color: white;
+    font-family: 'Raleway', sans-serif;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 8px 8px 0 0;
+}
+
+ul#menu2 li a {
     background-color: none;
     color: white;
     font-family: 'Raleway', sans-serif;
