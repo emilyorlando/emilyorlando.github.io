@@ -6,7 +6,16 @@ h1 {
     color: white;
 }
 
-h2 {
+title {
+    font-size: 45px;
+    text-align: center
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    color: white;
+}
+    
+
+body {
     font-size: 45px;
     text-align: center
     font-family: 'Raleway', sans-serif;
